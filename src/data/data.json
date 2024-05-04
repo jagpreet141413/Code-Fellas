@@ -1,0 +1,166 @@
+{
+  "Header": {
+    "title": "We are in the coding world",
+    "paragraph": "SATISFY YOUR SOUL, NOT THE SOCIETY"
+  },
+  "About": {
+    "paragraph": "With a combined experience of over five years in web and app development, we bring a wealth of expertise to every project. Our team is adept at crafting innovative solutions tailored to your specific needs, ensuring seamless functionality and user experience. Why choose us? Because we prioritize quality, efficiency, and client satisfaction in every endeavor. Trust us to transform your vision into reality, delivering results that exceed expectations.",
+    "Why": [
+      "Expertise",
+      "Innovation",
+      "Quality Assurance"
+    ],
+    "Why2": [
+      "Customization",
+      "Client Satisfaction"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+    "icon": "fa fa-code",
+    "name": "Web Development",
+    "text": "For web development, we specialize in Node.js, React.js, and Next.js, harnessing the power of these technologies to build robust and scalable web applications tailored to your needs."
+    },
+    {
+    "icon": "fa fa-mobile",
+    "name": "Mobile Development",
+    "text": "In mobile development, we excel in React Native, Flutter, and Android, crafting mobile apps that offer seamless performance and engaging user experiences across various platforms."
+    },
+    {
+    "icon": "fa fa-paint-brush",
+    "name": "Designing",
+    "text": "When it comes to designing, we combine creativity and functionality to deliver visually stunning and intuitive interfaces that captivate your audience and enhance your brand's presence."
+    }
+    ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Chandigarh, India",
+    "phone": "+916239008252",
+    "email": "ilovepreet.freelancer.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-cogs",
+      "title": "Problem-Solving",
+      "text": "Ability to break down complex problems into smaller, manageable components and devise efficient solutions."
+    },
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Logical Reasoning",
+      "text": "Capacity to think logically and analytically to identify patterns and formulate solutions."
+    },
+    {
+      "icon": "fa fa-eye",
+      "title": "Attention to Detail",
+      "text": "Careful attention to detail to ensure code accuracy, efficiency, and maintainability."
+    },
+    {
+      "icon": "fa fa-lock",
+      "title": "Security Awareness",
+      "text": "Knowledge of common security vulnerabilities and best practices for writing secure code."
+    }
+  ]
+}
